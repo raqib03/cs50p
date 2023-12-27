@@ -6,4 +6,4 @@ first, last = name.split(" ")
 
 # Say hello to user
 print(f"Hello, {first}!")
-## this can split only two parts by space, first name and last name
+# this can split only two parts by space, first name and last name
